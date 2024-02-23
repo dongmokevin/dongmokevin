@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Kevin</h1>
-<h3 align="center">That Software Engineer dedicated to building for Progress. 🛠️ Excited about achieving success for your enterprise? Count me in—I'm rooting for your success as much as you are! Me too, I build innovative projects that make a difference. Proud product of 🍁🇨🇲, Let's connect and chat about how we can bring your ideas to life. I'm just an email away! 💻✨</h3>
+<h1 align="center">Bonjour 👋, I'm Kevin</h1>
+<h3 align="center">That Software Engineer dedicated to building for Progress. 🛠️ Excited about achieving success for your enterprise? Count me in, I'm here to support your success every step of the way! Like you, I'm dedicated to crafting innovative projects that drive positive change. Proud product of 🍁 🇨🇲, Let's connect and chat about how we can bring your ideas to life. I'm just an email away! 💻✨</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dongmokevin&label=Profile%20views&color=0e75b6&style=flat" alt="dongmokevin" /> </p>
 
-- 🔭 I’m currently working on [building my startup company. Still looking for a name ha ha](Still brainstorming names! 😄)
+- 🔭 I’m currently working on [building my startup company](Still brainstorming names! 😄)
 
 - 🌱 Always exploring new horizons! Currently diving into **Machine & Deep Learning 🧠, honing my design skills 🎨, and mastering Data Engineering 📊**
 
-- 👨‍💻 All of my projects are available at [link coming soon 😄](link coming soon 😄)
+- 👨‍💻 All of my projects are available at [link coming soon 😄]()
 
 - 💬 Ask me about **Software development, or machine learning algorithms.**
 
