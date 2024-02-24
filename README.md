@@ -7,11 +7,11 @@
 
 - 🔭 **I’m currently working on building my startup company(Still brainstorming names! 😄)**
 
-- 🌱 **Always exploring new horizons! Currently diving into **Machine & Deep Learning 🧠, honing my design skills 🎨, and mastering Data Engineering 📊**
+- 🌱 **Always exploring new horizons! Currently diving into Machine & Deep Learning 🧠, honing my design skills 🎨, and mastering Data Engineering 📊**
 
-- 👨‍💻 ** All of my projects are available at [link coming soon 😄]()**
+- 👨‍💻 **All of my projects are available at [link coming soon 😄]()**
 
-- 💬 **Ask me about **Software development, or machine learning algorithms.**
+- 💬 **Ask me about Software development, or machine learning algorithms.**
 
 - 📫 **Feel free to shoot me an email at kevindongmo.f@gmail.com or connect with me on LinkedIn: [Kevin Dongmo](https://www.linkedin.com/in/kevin-dongmo-712939231/)**
 
@@ -126,9 +126,9 @@
 
 ### Testing
 
-| ![Cypress][cypress-logo] | ![Jest][jest-logo]       | ![Postman][postman-logo]  | ![Selenium][selenium-logo]|
-|--------------------------|--------------------------|----------------------------|---------------------------|
-| Cypress                  | Jest                     | Postman                    | Selenium                  |
+| ![Pytest][pytest-logo] | ![Junit][junit-logo] | ![Jest][jest-logo]       | ![Postman][postman-logo]  | ![Selenium][selenium-logo]|
+|------------------------|----------------------|--------------------------|---------------------------|---------------------------|
+| Pytest                 | JUnit                | Jest                     | Postman                   | Selenium                  |
 
 </details>
 
@@ -191,6 +191,8 @@
 [xd-logo]: https://raw.githubusercontent.com/devicons/devicon/master/icons/xd/xd-original.svg
 [cypress-logo]: https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg
 [jest-logo]: https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg
+[junit-logo]: https://raw.githubusercontent.com/devicons/devicon/master/icons/junit/junit-plain-wordmark.svg
+[pytest-logo]: https://raw.githubusercontent.com/devicons/devicon/master/icons/pytest/pytest-original-wordmark.svg
 [postman-logo]: https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg
 [selenium-logo]: https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg
 [git-logo]: https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg
