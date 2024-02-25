@@ -28,7 +28,7 @@
 
 | ![Python Logo][python-logo] | ![JavaScript Logo][js-logo] | ![TypeScript Logo][ts-logo] | ![C# Logo][csharp-logo] | ![Scala Logo][scala-logo] | ![Java Logo][java-logo] | ![Kotlin Logo][kotlin-logo] |
 |-----------------------------|-----------------------------|-----------------------------|-------------------------|----------------------------|-------------------------|----------------------------|
-| Python                      | JavaScript                  | TypeScript                  |C#                       | Scala                      | Java                    | Kotlin                    |
+| Python                      | JavaScript                  | TypeScript                  |C#      (learning)       | Scala  (learning)          | Java                    | Kotlin                    |
 
 </details>
 
@@ -50,7 +50,7 @@
 
 | ![React][react-logo]   | ![Sass][sass-logo]       | ![Redux][redux-logo]     | ![Next.js][nextjs-logo] |  ![GraphQL][graphql-logo] | ![Angular][angular-logo]  |
 |------------------------|--------------------------|--------------------------|--------------------------|--------------------------|---------------------------|
-| React                  | Sass                     | Redux                    | Next.js                  | GraphQL                  | Angular                   |
+| React                  | Sass                     | Redux                    | Next.js                  | GraphQL                  | Angular (learning)        |
 
 </details>
 
@@ -62,7 +62,7 @@
 
 | ![Bash][bash-logo]     | ![Docker][docker-logo]  | ![Kubernetes][k8s-logo]| ![Jenkins][jenkins-logo]|
 |------------------------|-------------------------|------------------------|-------------------------|
-| Bash                   | Docker                  | Kubernetes              | Jenkins                 |
+| Bash                   | Docker                  | Kubernetes              | Jenkins                |
 
 </details>
 
@@ -73,7 +73,7 @@
 
 | ![Android][android-logo] |  ![React Native][reactnative-logo] |
 |--------------------------|------------------------------------|
-| Android                  | React Native                       |
+| Android     (learning)   | React Native    (learning)         |
 
 </details>
 
@@ -84,14 +84,14 @@
 
 | ![PyTorch][pytorch-logo] | ![Scikit-learn][sklearn-logo] | ![TensorFlow][tensorflow-logo] | ![Numpy][numpy-logo] | ![OpenCV][opencv-logo] |
 |---------------------------|-------------------------------|--------------------------------|----------------------|-------------------------|
-| PyTorch                   | Scikit-learn                  | TensorFlow                     | Numpy                | OpenCV                  |
+| PyTorch                   | Scikit-learn                  | TensorFlow                     | Numpy                | OpenCV    (learning)    |
 
 </details>
 
 <details>
 <summary><strong>Data Engineering</strong></summary>
 
-### Data Engineering
+### Data Engineering (learning)
 
 | ![Spark][spark-logo]  |![Hadoop][hadoop-logo]   | ![Kafka][kafka-logo]      | ![Pandas][pandas-logo]      | ![Seaborn][seaborn-logo]  |
 |-----------------------------|--------------------------|---------------------------|-----------------------------|---------------------------|
@@ -106,7 +106,7 @@
 
 | ![AWS][aws-logo]         | ![Azure][azure-logo]      | ![GCP][gcp-logo]            |
 |--------------------------|---------------------------|-----------------------------|
-| AWS                      | Azure                     | Google Cloud Platform       |
+| AWS    (learning)        | Azure                     | Google Cloud (learning)     |
 
 </details>
 
