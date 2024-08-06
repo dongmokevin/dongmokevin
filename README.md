@@ -1,7 +1,7 @@
 <h1 align="center">Bonjour 👋, I'm Kevin</h1>
 <h2 align="center">That Software Engineer dedicated to building for Progress 💖</h2>
 
-<h3 align="center">🛠️ Excited about achieving success for your enterprise? Count me in, I'm here to support your success every step of the way! Like you, I'm dedicated to crafting innovative projects that drive positive change. Proud product of 🍁 🇨🇲, Let's connect and chat about how we can bring your ideas to life. I'm just an email away! 💻✨</h3>
+<h3 align="center"> I'm dedicated to crafting innovative projects that drive positive change! 💻✨</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dongmokevin&label=Profile%20views&color=0e75b6&style=flat" alt="dongmokevin" /> </p>
 
