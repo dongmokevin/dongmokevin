@@ -26,9 +26,9 @@
 <details>
 <summary><strong>Programming Languages</strong></summary>
 
-| ![Python Logo][python-logo] | ![JavaScript Logo][js-logo] | ![TypeScript Logo][ts-logo] | ![C# Logo][csharp-logo] | ![Scala Logo][scala-logo] | ![Java Logo][java-logo] | ![Kotlin Logo][kotlin-logo] |
-|-----------------------------|-----------------------------|-----------------------------|-------------------------|----------------------------|-------------------------|----------------------------|
-| Python                      | JavaScript                  | TypeScript                  |C#      (learning)       | Scala  (learning)          | Java                    | Kotlin                    |
+| ![Python Logo][python-logo] | ![JavaScript Logo][js-logo] | ![TypeScript Logo][ts-logo] | ![C++ Logo][c++-logo] |
+|-----------------------------|-----------------------------|-----------------------------|-------------------------|
+| Python                      | JavaScript                  | TypeScript                  | C++      (learning)     |
 
 </details>
 
@@ -81,7 +81,7 @@
 
 ### ML and DL
 
-| ![PyTorch][pytorch-logo]  | ![Scikit-learn][sklearn-logo] | | ![Numpy][numpy-logo] | ![OpenCV][opencv-logo]  |
+| ![PyTorch][pytorch-logo]  | ![Scikit-learn][sklearn-logo] | ![Numpy][numpy-logo]   | ![OpenCV][opencv-logo]  |
 |---------------------------|-------------------------------|------------------------|-------------------------|
 | PyTorch                   | Scikit-learn                  | Numpy                  | OpenCV    (learning)    |
 
@@ -125,9 +125,9 @@
 
 ### Testing
 
-| ![Pytest][pytest-logo] | ![Junit][junit-logo] | ![Jest][jest-logo]       | ![Postman][postman-logo]  | ![Selenium][selenium-logo]|
-|------------------------|----------------------|--------------------------|---------------------------|---------------------------|
-| Pytest                 | JUnit                | Jest                     | Postman                   | Selenium                  |
+| ![Pytest][pytest-logo] | ![Jest][jest-logo]   | ![Postman][postman-logo]  | ![Selenium][selenium-logo]|
+|------------------------|----------------------|---------------------------|----------------------------|
+| Pytest                 | Jest                 | Postman                   | Selenium                  |
 
 </details>
 
@@ -149,6 +149,7 @@
 [js-logo]: https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg
 [kotlin-logo]: https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg
 [ts-logo]: https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg
+[c++-logo]: [https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg)
 
 [django-logo]: https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg
 [spring-logo]: https://www.vectorlogo.zone/logos/springio/springio-icon.svg
