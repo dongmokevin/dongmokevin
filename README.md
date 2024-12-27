@@ -26,7 +26,7 @@
 <details>
 <summary><strong>Programming Languages</strong></summary>
 
-| ![Python Logo][python-logo] | ![JavaScript Logo][js-logo] | ![TypeScript Logo][ts-logo] | ![C++ Logo][c++-logo] |
+| ![Python Logo][python-logo] | ![JavaScript Logo][js-logo] | ![TypeScript Logo][ts-logo] | ![C++ Logo][cplusplus-logo] |
 |-----------------------------|-----------------------------|-----------------------------|-------------------------|
 | Python                      | JavaScript                  | TypeScript                  | C++      (learning)     |
 
@@ -149,8 +149,7 @@
 [js-logo]: https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg
 [kotlin-logo]: https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg
 [ts-logo]: https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg
-[c++-logo]: [https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg)
-
+[cplusplus-logo]: https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg
 [django-logo]: https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg
 [spring-logo]: https://www.vectorlogo.zone/logos/springio/springio-icon.svg
 [nodejs-logo]: https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg
