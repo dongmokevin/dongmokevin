@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dongmokevin&label=Profile%20views&color=0e75b6&style=flat" alt="dongmokevin" /> </p>
 
-- 🔭 **I’m currently working on building my startup company(Still brainstorming names! 😄)**
+- 🔭 **I’m currently working on building my startup company**
 
-- 🌱 **Always exploring new horizons! Currently diving into Machine & Deep Learning 🧠, honing my design skills 🎨, and mastering Data Engineering 📊**
+- 🌱 **Always exploring new horizons! Currently diving into Machine & Deep Learning 🧠 and honing my design skills 🎨**
 
 - 👨‍💻 **All of my projects are available at [link coming soon 😄]()**
 
