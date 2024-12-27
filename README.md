@@ -37,10 +37,9 @@
 
 ### Backend
 
-| ![Django][django-logo] | ![Node.js][nodejs-logo] | ![Spring][spring-logo] | ![Ktor][ktor-logo]     |
-|------------------------|-------------------------|------------------------|------------------------|
-| Django                 | Node.js                 | Spring                 | Ktor                   |
-
+| ![Django][django-logo] | ![Fast API][fastapi-logo] | ![Node.js][nodejs-logo]     |
+|------------------------|---------------------------|-----------------------------|
+| Django                 | FastAPI                   | Node.js                     |
 </details>
 
 <details>
@@ -48,9 +47,9 @@
 
 ### Frontend
 
-| ![React][react-logo]   | ![Sass][sass-logo]       | ![Redux][redux-logo]     | ![Next.js][nextjs-logo] |  ![GraphQL][graphql-logo] | ![Angular][angular-logo]  |
-|------------------------|--------------------------|--------------------------|--------------------------|--------------------------|---------------------------|
-| React                  | Sass                     | Redux                    | Next.js                  | GraphQL                  | Angular (learning)        |
+| ![React][react-logo]   | ![Next.js][nextjs-logo]  |  ![PySide6][qt-logo] |
+|------------------------|--------------------------|----------------------|
+| React                  | Next.js                  | PySide6/PyQT         |
 
 </details>
 
@@ -82,9 +81,9 @@
 
 ### ML and DL
 
-| ![PyTorch][pytorch-logo] | ![Scikit-learn][sklearn-logo] | ![TensorFlow][tensorflow-logo] | ![Numpy][numpy-logo] | ![OpenCV][opencv-logo] |
-|---------------------------|-------------------------------|--------------------------------|----------------------|-------------------------|
-| PyTorch                   | Scikit-learn                  | TensorFlow                     | Numpy                | OpenCV    (learning)    |
+| ![PyTorch][pytorch-logo]  | ![Scikit-learn][sklearn-logo] | | ![Numpy][numpy-logo] | ![OpenCV][opencv-logo]  |
+|---------------------------|-------------------------------|------------------------|-------------------------|
+| PyTorch                   | Scikit-learn                  | Numpy                  | OpenCV    (learning)    |
 
 </details>
 
@@ -104,9 +103,9 @@
 
 ### Cloud Development
 
-| ![AWS][aws-logo]         | ![Azure][azure-logo]      | ![GCP][gcp-logo]            |
-|--------------------------|---------------------------|-----------------------------|
-| AWS    (learning)        | Azure                     | Google Cloud (learning)     |
+| ![AWS][aws-logo]         | ![Azure][azure-logo]      | ![GCP][gcp-logo]                       |
+|--------------------------|---------------------------|----------------------------------------|
+| AWS    (learning)        | Azure                     | Google Cloud for vision (learning)     |
 
 </details>
 
@@ -155,6 +154,7 @@
 [spring-logo]: https://www.vectorlogo.zone/logos/springio/springio-icon.svg
 [nodejs-logo]: https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg
 [ktor-logo]: https://raw.githubusercontent.com/devicons/devicon/master/icons/ktor/ktor-original.svg
+[fastapi-logo]: https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg
 
 [react-logo]: https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg
 [angular-logo]: https://angular.io/assets/images/logos/angular/angular.svg
@@ -162,6 +162,7 @@
 [sass-logo]: https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg
 [redux-logo]: https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg
 [graphql-logo]: https://www.vectorlogo.zone/logos/graphql/graphql-ar21.svg
+[qt-logo]: https://raw.githubusercontent.com/devicons/devicon/master/icons/qt/qt-original.svg
 
 [bash-logo]: https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg
 [docker-logo]: https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg
