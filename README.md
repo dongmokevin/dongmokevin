@@ -1,11 +1,9 @@
-<h1 align="center">Bonjour 👋, I'm Kevin</h1>
-<h2 align="center">That Software Engineer dedicated to building for Progress 💖</h2>
+<h1 align="center">Hello 👋, I'm Kevin</h1>
+<h2 align="center">A Software Engineer dedicated to building for Progress 💖</h2>
 
 <h3 align="center"> I'm dedicated to crafting innovative projects that drive positive change! 💻✨</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dongmokevin&label=Profile%20views&color=0e75b6&style=flat" alt="dongmokevin" /> </p>
-
-- 🔭 **I’m currently working on building my startup company**
 
 - 🌱 **Always exploring new horizons! Currently diving into Machine & Deep Learning 🧠 and honing my design skills 🎨**
 
